@@ -1,12 +1,9 @@
 [package]
-name = "doc-rust-jp"
+name = "variables"
 version = "0.1.0"
 authors = ["Naoyuki Yamada <yamada@kirishikistudios.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[workspace]
-members = ["guessing_game", "variables", "function", "branches"]
 
 [dependencies]
